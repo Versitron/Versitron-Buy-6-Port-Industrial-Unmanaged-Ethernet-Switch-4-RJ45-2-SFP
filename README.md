@@ -26,7 +26,7 @@ Benefits include:
 
 ---
 
-## Key Features of Versitron 6‑Port Unmanaged Industrial Switches
+## Key Features of 6‑Port Unmanaged Industrial Switches
 
 - 4 × RJ45 Ethernet ports, 2 × SFP fiber slots  
 - Unmanaged, plug‑and‑play performance  
